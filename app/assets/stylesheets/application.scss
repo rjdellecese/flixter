@@ -14,3 +14,10 @@
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+@import url(https://fonts.googleapis.com/css?family=Patua+One);
+
+.navbar-brand {
+	font-family: Patua One;
+	font-size: 32px;
+}
