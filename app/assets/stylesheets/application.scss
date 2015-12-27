@@ -20,6 +20,11 @@
 /* Text Font */
 @import url(https://fonts.googleapis.com/css?family=Roboto);
 
+body {
+	background: url('grey_wash_wall.png');
+	font-family: Roboto;
+}
+
 .navbar {
 	border-radius: 0;
 	font-family: Roboto;
