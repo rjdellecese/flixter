@@ -16,8 +16,31 @@
 @import "bootstrap";
 
 /* Brand Font */
+@import url(https://fonts.googleapis.com/css?family=Patua+One);
 /* Text Font */
 @import url(https://fonts.googleapis.com/css?family=Roboto);
+
+.section {
+	border: 1px solid;
+	border-color: #e4e4e4 #bebebd #bebebd #e4e4e4;
+	padding: 20px;
+}
+
+.lesson {
+	background-color: black;
+	margin-top: 10px;
+	height: 130px;
+}
+
+.lesson a {
+	color: white;
+	font-family: Roboto;
+	font-size: 15px;
+}
+
+.lesson a b {
+	font-size: 25px;
+}
 
 .field_with_errors {
   color: #ff3333;
