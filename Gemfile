@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'ranked-model'
 gem 'stripe'
 gem 'mini_magick', '~> 4.3.1'
 gem 'carrierwave-aws'
